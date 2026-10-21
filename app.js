@@ -12,7 +12,7 @@ app.use((req, res, next) => {
 const customers = [
   { id: 1, name: "Kannan", city: "Mumbai" },
   { id: 2, name: "Ali", city: "Dammam" },
-  { id: 3, name: "Priya Nair", city: "Kochi" },
+  { id: 3, name: "Salman", city: "Qatif" },
   { id: 4, name: "John Smith", city: "London" },
   { id: 5, name: "Fatima Khan", city: "Dubai" }
 ];
